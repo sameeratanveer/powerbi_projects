@@ -44,6 +44,15 @@ Microsoft Excel for data processing, visualization, and interactive dashboard cr
 
 🎯 Insight: Skilled, mid-level educated employees are leaving more often, possibly for better opportunities.
 
+### 3. Attrition by Job Role
+Top roles facing attrition:
+
+→ Sales Executive 
+
+→ Research Scientist 
+
+→ Laboratory Technician 
+🚩 Critical Risk Areas: Sales and Research roles need immediate attention to address workload, incentives, or job satisfaction.
 
 ## Strategic Insights & Decision-Making Support:
 
